@@ -1,7 +1,6 @@
-# hello-world
-it told me to do this
+# Kayla Henry
+This is my first attempt at a website.
 
-Hi Humans!
+TECH125 Agile Technology
 
-Hubot here, I like Node, js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far suprior to Earth tacos.
+To be edited for future areas of my classes so I can have a functioning portfolio that I love.
